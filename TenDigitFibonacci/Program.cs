@@ -34,12 +34,9 @@ namespace TenDigitFibonacci
 
                     Console.ResetColor();
                     i = 1000000001;
+
                 }
-
             }
-
-            Console.ForegroundColor = ConsoleColor.Blue;
-            Console.ResetColor();
         }
     }
 }
